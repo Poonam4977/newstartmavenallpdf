@@ -60,5 +60,10 @@ public class FcbookLoginTest {
 	{
 		System.out.println(a+b);
 	}
+	@Test
+	public void trial()
+	{
+		System.out.println("did the change");
+	}
 
 }
