@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-28T14:52:33 IST" name="Suite" finished-at="2022-10-28T14:53:20 IST" duration-ms="46781">
+    <groups>
+    </groups>
+    <test started-at="2022-10-28T14:52:33 IST" name="Test" finished-at="2022-10-28T14:53:20 IST" duration-ms="46781">
+      <class name="test.FcbookLoginTest">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:test.FcbookLoginTest@209da20d]" started-at="2022-10-28T14:52:33 IST" name="launchBrowser" finished-at="2022-10-28T14:52:43 IST" duration-ms="10132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="add(int,int)[pri:0, instance:test.FcbookLoginTest@209da20d]" started-at="2022-10-28T14:52:43 IST" name="add" finished-at="2022-10-28T14:52:43 IST" duration-ms="10" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[20]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[30]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+        <test-method is-config="true" signature="scrnShot()[pri:0, instance:test.FcbookLoginTest@209da20d]" started-at="2022-10-28T14:52:43 IST" name="scrnShot" finished-at="2022-10-28T14:52:44 IST" duration-ms="311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrnShot -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:test.FcbookLoginTest@209da20d]" started-at="2022-10-28T14:52:44 IST" name="launchBrowser" finished-at="2022-10-28T14:52:53 IST" duration-ms="8998" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="loginTest()[pri:1, instance:test.FcbookLoginTest@209da20d]" started-at="2022-10-28T14:52:53 IST" name="loginTest" finished-at="2022-10-28T14:53:04 IST" duration-ms="11346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="scrnShot()[pri:0, instance:test.FcbookLoginTest@209da20d]" started-at="2022-10-28T14:53:04 IST" name="scrnShot" finished-at="2022-10-28T14:53:05 IST" duration-ms="599" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrnShot -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:test.FcbookLoginTest@209da20d]" started-at="2022-10-28T14:53:05 IST" name="launchBrowser" finished-at="2022-10-28T14:53:14 IST" duration-ms="9799" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="loginForgotPassTest()[pri:2, instance:test.FcbookLoginTest@209da20d]" started-at="2022-10-28T14:53:14 IST" name="loginForgotPassTest" finished-at="2022-10-28T14:53:20 IST" duration-ms="5340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginForgotPassTest -->
+        <test-method is-config="true" signature="scrnShot()[pri:0, instance:test.FcbookLoginTest@209da20d]" started-at="2022-10-28T14:53:20 IST" name="scrnShot" finished-at="2022-10-28T14:53:20 IST" duration-ms="178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrnShot -->
+      </class> <!-- test.FcbookLoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
